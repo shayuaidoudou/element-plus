@@ -94,3 +94,5 @@ export const vLoading: Directive<ElementLoading, LoadingBinding> = {
     el[INSTANCE_KEY] = null
   },
 }
+
+export default vLoading
